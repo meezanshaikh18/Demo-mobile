@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Mobile",
+  "description": "Authorized multi-brand smartphone retail store, wholesale mobile supplier, and genuine accessories catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
